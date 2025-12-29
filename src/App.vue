@@ -3,11 +3,11 @@ import { useHead } from '@unhead/vue';
 import DefaultLayout from './core/layouts/Default.layout.vue';
 
 useHead({
-  title: 'coinpulse',
+  title: 'Coin Pulse',
   link: [
     {
       rel: 'icon',
-      href: '/assets/favicon.ico',
+      href: '/favicon.png',
     },
   ],
   meta: [
